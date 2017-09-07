@@ -1,0 +1,7 @@
+{
+	"Response.ResponseSuccess": "OK",
+	"Response.ResponseParamsError": "Bad Request",
+	"Response.ResponseServiceError": "Internal Server Error",
+	"Response.ResponseNotFoundError": "Not Found",
+	"Response.ResponseMissingTokenError": "Missing Token"
+}

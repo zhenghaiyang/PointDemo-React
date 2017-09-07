@@ -1,0 +1,8 @@
+{
+  "Response.ResponseSuccess": "成功",
+  "Response.ResponseParamsError": "错误请求",
+  "Response.ResponseServiceError": "服务器内部错误",
+  "Response.ResponseNotFoundError": "接口不存在",
+  "Response.ResponseMissingTokenError": "丢失认证",
+  "Response.ResponseIDCardError": "身份证格式不正确"
+}

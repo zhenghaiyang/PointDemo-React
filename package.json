@@ -1,0 +1,53 @@
+{
+  "name": "erp02",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node dist/app.js",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "batch-request": "^0.1.4",
+    "body-parser": "^1.17.2",
+    "config": "^1.26.2",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.4",
+    "drakov": "^1.0.4",
+    "gago-mapnik-mysql": "github:ipv4sec/gago-mapnik-mysql",
+    "glob": "^7.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-tslint": "^8.1.1",
+    "gulp-typescript": "^3.2.1",
+    "i18n": "^0.8.3",
+    "lodash": "^4.17.2",
+    "merge2": "^1.1.0",
+    "mocha": "^3.5.0",
+    "multer": "^1.3.0",
+    "mysql": "^2.12.0",
+    "mysql2": "^1.4.1",
+    "restler": "^3.4.0",
+    "sakura-node-3": "^3.0.11",
+    "sequelize": "^4.7.2",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.6.0",
+    "jsonwebtoken":"^7.4.3",
+    "crypto": "^1.0.1",
+    "tslint-sakura-contrib": "^1.0.7",
+    "typescript": "^2.4.2",
+    "validator-ts": "github:ipv4sec/validator-ts#v2.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.36",
+    "@types/node": "^8.0.22",
+    "@types/pg": "^6.1.43",
+    "@types/sequelize": "^4.0.70",
+    "@types/body-parser": "^1.16.4",
+    "@types/connect-timeout": "0.0.32",
+    "@types/cors": "^2.8.1",
+    "@types/i18n": "^0.8.0",
+    "@types/multer": "^1.3.3",
+    "@types/restler": "^3.1.5"
+  }
+}
